@@ -1,25 +1,13 @@
-Allarme ed escursioni; entrano Norfolk e l’esercito: Catesby gli va incontro.
+Clamori marziali. Scorrerie. Entrano (Norfolk e soldati, poi dall’altra porta) Catesby.
 
-CATESBY 
-
-Alla riscossa, milord di Norfolk, alla riscossa! [giusta]
+CATESBY
 
 
-Il re fa prodigi di valore superiori alle forze di un uomo. 
 
-Intrepido disprezza tutti i pericoli! 
-Il suo cavallo è ucciso, ed ei combatte a piedi 
+Gli hanno ucciso il cavallo, ed egli si batte a piedi, [giusta]
 
-cercando Richemond nel seno della morte. 
+cercando Richmond nella gola della morte.
 
-Soccorso, prode duca, o la battaglia è perduta! 
+Soccorso, nobile signore, o la giornata è persa.
 
-(allarme; entra il re Riccardo)
-
-
-Un cavallo, un cavallo! il mio regno per un cavallo!
-
-CATESBY 
-
-Ritiratevi, milord, e vi aiuterò a trovarne uno.
-
+(Escono Norfolk e soldati).
